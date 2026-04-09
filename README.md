@@ -1,4 +1,4 @@
-# Olá, eu sou Davi 
+# Olá, eu sou Davi
 
 Sou estudante de Engenharia de Inteligência Artificial no Instituto Infnet. Criei este espaço para organizar meus projetos acadêmicos e estudos independentes. 
 
@@ -6,7 +6,7 @@ Meu foco no momento é colocar a mão na massa com dados e machine learning, al�
 
 - Cursando Engenharia de Inteligência Artificial (Instituto Infnet)
 - Desenvolvendo principalmente em Python e Java
-- Ferramentas de uso diário: IntelliJ IDEA e VS Code
+- Ferramentas de uso diário: IntelliJ IDEA, GoLand e VS Code
 
 ### Linguagens e Ferramentas
 
@@ -16,6 +16,7 @@ Meu foco no momento é colocar a mão na massa com dados e machine learning, al�
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
