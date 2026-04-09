@@ -1,4 +1,4 @@
-# Olá, eu sou Davi 👋
+# Olá, eu sou Davi 
 
 Sou estudante de Engenharia de Inteligência Artificial no Instituto Infnet. Criei este espaço para organizar meus projetos acadêmicos e estudos independentes. 
 
@@ -21,8 +21,8 @@ Meu foco no momento é colocar a mão na massa com dados e machine learning, al�
 ### Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi0416&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=1f6feb&ring_color=58a6ff" alt="Estatísticas do GitHub" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi0416&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_color=1f6feb" alt="Linguagens Mais Usadas" height="192px"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Davi0416&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=1f6feb&ring_color=58a6ff" alt="Estatísticas do GitHub" height="192px"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi0416&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_color=1f6feb" alt="Linguagens Mais Usadas" height="192px"/>
 </p>
 
 ### Contato
