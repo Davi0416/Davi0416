@@ -5,7 +5,7 @@ Sou estudante de Engenharia de Inteligência Artificial no Instituto Infnet. Cri
 Meu foco no momento é praticar com dados e machine learning, além de melhorar meu código no dia a dia.
 
 - Cursando Engenharia de Inteligência Artificial (Instituto Infnet)
-- Desenvolvendo principalmente em Python e Java
+- Desenvolvendo principalmente em Go, Java e Python
 - Ferramentas de uso diário: IntelliJ IDEA, GoLand e VS Code
 
 ### Linguagens e Ferramentas
