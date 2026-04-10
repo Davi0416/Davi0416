@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Inteligência Artificial no Instituto Infnet. Criei este espaço para organizar meus projetos acadêmicos e estudos independentes. 
 
-Meu foco no momento é colocar a mão na massa com dados e machine learning, além de melhorar meu código no dia a dia.
+Meu foco no momento é praticar com dados e machine learning, além de melhorar meu código no dia a dia.
 
 - Cursando Engenharia de Inteligência Artificial (Instituto Infnet)
 - Desenvolvendo principalmente em Python e Java
