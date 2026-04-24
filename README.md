@@ -1,39 +1,58 @@
-# Olá, eu sou Davi
+<div align="center">
 
-Sou estudante de Engenharia de Inteligência Artificial no Instituto Infnet. Criei este espaço para organizar meus projetos acadêmicos e estudos independentes. 
+# Davi Asafe
 
-Meu foco no momento é praticar com dados e machine learning, além de melhorar meu código no dia a dia.
+**Desenvolvedor Backend** · Java · Spring Boot · Go · Python
 
-- Cursando Engenharia de Inteligência Artificial (Instituto Infnet)
-- Desenvolvendo principalmente em Go, Java e Python
-- Ferramentas de uso diário: IntelliJ IDEA, GoLand e VS Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-asafe-097572400/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviasafe8@gmail.com)
 
-### Linguagens e Ferramentas
+</div>
+
+---
+
+Desenvolvedor backend com projetos práticos em Java, Go e Python. Autor do **Vitalys**, sistema fullstack de gestão para clínicas multidisciplinares com Spring Boot, API REST, Docker e banco de dados relacional.
+
+Estudante de Engenharia de Software com ênfase em IA no **Instituto Infnet** — focado em backend escalável, arquitetura limpa e resolução de problemas algorítmicos.
+
+---
+
+### O que estou construindo
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| [Vitalys](https://github.com/Davi0416/Vitalys) | Java · Spring Boot · SQL · Docker | Sistema fullstack de gestão clínica com API REST e controle de acesso |
+| [Market Tracker](https://github.com/Davi0416/market-tracker) | Go · PostgreSQL · Colly | Pipeline de monitoramento de preços com scraping concorrente e fuzzy matching |
+| [GoCheck-Uptime](https://github.com/Davi0416/GoCheck-Uptime) | Go | Monitoramento de disponibilidade de serviços web via CLI |
+| [BookFinder-Java](https://github.com/Davi0416/BookFinder-Java) | Java 21 · Gson · Google Books API | Consulta de livros via API REST com Records como DTOs |
+| [Java-CEP-Search](https://github.com/Davi0416/Java-CEP-Search) | Java · ViaCEP API | Consulta de endereços via API com persistência em JSON |
+
+---
+
+### Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Estatísticas do GitHub
+---
+
+### Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Davi0416&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=1f6feb&ring_color=58a6ff" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi0416&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_color=1f6feb" alt="Linguagens Mais Usadas" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Davi0416&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=1f6feb&ring_color=58a6ff" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi0416&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_color=1f6feb" height="170" />
 </p>
 
-### Contato
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/davi-asafe-097572400/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:daviasafe8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <sub>Disponível para estágio ou posição júnior · Presencial, híbrido ou remoto</sub>
+</div>
