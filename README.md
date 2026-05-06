@@ -22,7 +22,7 @@ Tenho experiência prática com Go, Java e TypeScript, construindo desde CLIs e 
 
 | Projeto | Stack | Descrição |
 |---|---|---|
-| [Acácio Portal](https://github.com/Davi0416/acacio-portal) | Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Vercel | Portal escolar completo com painel do aluno, painel admin protegido por role, calendário, simulados e galeria — em produção |
+| [Acácio Portal](https://github.com/Davi0416/acacio-portal) | Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Vercel | Portal escolar completo com painel do aluno, painel admin protegido por role, calendário, simulados e galeria |
 | [Vitalys](https://github.com/Davi0416/Vitalys) | Java · Spring Boot · SQL · Docker | Sistema fullstack de gestão clínica com API REST e controle de acesso |
 | [Market Tracker](https://github.com/Davi0416/market-tracker) | Go · PostgreSQL · Colly | Pipeline de monitoramento de preços com scraping concorrente e fuzzy matching |
 | [GoCheck-Uptime](https://github.com/Davi0416/GoCheck-Uptime) | Go | Monitoramento de disponibilidade de serviços web via CLI |
