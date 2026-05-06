@@ -2,8 +2,9 @@
 
 # Davi Asafe
 
-**Desenvolvedor Backend** · Java · Spring Boot · Go · Python
+**Desenvolvedor Backend & Full-stack** · Go · Java · TypeScript · Spring Boot
 
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davi0416.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-asafe-097572400/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviasafe8@gmail.com)
 
@@ -11,9 +12,9 @@
 
 ---
 
-Desenvolvedor backend com projetos práticos em Java, Go e Python. Autor do **Vitalys**, sistema fullstack de gestão para clínicas multidisciplinares com Spring Boot, API REST, Docker e banco de dados relacional.
+Desenvolvedor com foco em backend, cursando **Engenharia de Inteligência Artificial** no Instituto Infnet — Rio de Janeiro.
 
-Estudante de Engenharia de Software com ênfase em IA no **Instituto Infnet** — focado em backend escalável, arquitetura limpa e resolução de problemas algorítmicos.
+Tenho experiência prática com Go, Java e TypeScript, construindo desde CLIs e APIs REST até portais web completos com autenticação, banco de dados relacional e deploy em produção. Cada projeto nasce de um problema real.
 
 ---
 
@@ -21,6 +22,7 @@ Estudante de Engenharia de Software com ênfase em IA no **Instituto Infnet** �
 
 | Projeto | Stack | Descrição |
 |---|---|---|
+| [Acácio Portal](https://github.com/Davi0416/acacio-portal) | Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Vercel | Portal escolar completo com painel do aluno, painel admin protegido por role, calendário, simulados e galeria — em produção |
 | [Vitalys](https://github.com/Davi0416/Vitalys) | Java · Spring Boot · SQL · Docker | Sistema fullstack de gestão clínica com API REST e controle de acesso |
 | [Market Tracker](https://github.com/Davi0416/market-tracker) | Go · PostgreSQL · Colly | Pipeline de monitoramento de preços com scraping concorrente e fuzzy matching |
 | [GoCheck-Uptime](https://github.com/Davi0416/GoCheck-Uptime) | Go | Monitoramento de disponibilidade de serviços web via CLI |
@@ -32,12 +34,16 @@ Estudante de Engenharia de Software com ênfase em IA no **Instituto Infnet** �
 ### Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -54,5 +60,5 @@ Estudante de Engenharia de Software com ênfase em IA no **Instituto Infnet** �
 ---
 
 <div align="center">
-  <sub>Disponível para estágio ou posição júnior · Presencial, híbrido ou remoto</sub>
+  <sub>Disponível para estágio ou posição júnior · Backend · Full-stack · Presencial, híbrido ou remoto</sub>
 </div>
